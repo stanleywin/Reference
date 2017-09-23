@@ -3,8 +3,11 @@
 ## Front 
 
 作者：kula
+
 链接：https://www.zhihu.com/question/24952874/answer/78366087
+
 来源：知乎
+
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 1.  后端开发语言包括但不限于（php, python, java, scala, go, ruby) 之一。  能够使用一门或者数门语言构造大型应用。
@@ -19,7 +22,7 @@
 
 
 
-https://dotblogs.com.tw/explooosion/2016/06/11/213626
+[連結] https://dotblogs.com.tw/explooosion/2016/06/11/213626
 node.js express 環境安裝之新手教學
 
 https://dotblogs.com.tw/explooosion/2016/07/18/010601
