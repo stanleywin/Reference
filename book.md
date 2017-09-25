@@ -28,7 +28,7 @@ Database System the Complete Book 数据库系统全书 1+2
 
 Introduction to database system
 
-##programming language
+## programming language
 The C Programming Language
 
 Java Concurrency in Practice
@@ -39,12 +39,12 @@ Programming Pearls 编程珠玑
 
 Seven Languages in Seven Weeks: A 七周七语言
 
-##computer systems & operating systems
+## computer systems & operating systems
 Computer Systems: A Programmer's Perspective 深入理解计算机系统 CSAPP
 
 Modern Operating Systems MOOC:The Hardware/Software Interface
 
-##computer concepts
+## computer concepts
 Concepts of Programming Languages 程序设计语言原理
 
 Concepts of Programming Languages Ninth Edition 程序设计语言概念
@@ -68,7 +68,7 @@ Advanced Compiler Design and Implementation  高级编译器设计与实现
 
 Windows via C/C++ Windows核心编程
 
-##Linux
+## Linux
 Understanding UNIX/LINUX Programming Unix/Linux编程实践教程
 
 Advanced Programming in the UNIX Environment
@@ -78,7 +78,7 @@ Understanding the Linux Kernel 深入理解LINUX内核
 The Art of UNIX Programming Unix编程艺术
 
 
-##other principles
+## other principles
 
 深入理解Nginx
 
