@@ -1,12 +1,15 @@
 
 ## javascript
 javascript dom高级程序设计
+
 Professional JavaScript for Web javascript高级程序设计
+
 javascript dom 编程艺术
 
 jQuery基础教程 https://github.com/wwj718/code_of_learningjquery
 
 Python Cookbook
+
 Introduction to Computation and Programming Using Python
 
 ## database
