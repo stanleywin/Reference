@@ -33,3 +33,6 @@ http://fred-zone.blogspot.tw/2017/01/javascript-mapreduce.html
 https://dotblogs.com.tw/explooosion/2017/06/05/221119
 
 https://pjchender.blogspot.tw/2017/01/es6-arrow-function.html
+
+http://zh.lucida.me/blog/on-learning-algorithms/
+
