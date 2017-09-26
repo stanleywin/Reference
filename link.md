@@ -36,3 +36,7 @@ https://pjchender.blogspot.tw/2017/01/es6-arrow-function.html
 
 http://zh.lucida.me/blog/on-learning-algorithms/
 
+https://www.zhihu.com/question/21760988
+https://www.zhihu.com/question/21567720
+https://zhuanlan.zhihu.com/p/24559011
+https://zhuanlan.zhihu.com/p/28749806
