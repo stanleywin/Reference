@@ -10,7 +10,7 @@
 
 [Koa 框架教程](http://www.ruanyifeng.com/blog/2017/08/koa.html)
 
-[webpack demo]https://github.com/ruanyf/webpack-demos
+[webpack demo](https://github.com/ruanyf/webpack-demos)
 
 https://github.com/ruanyf/react-babel-webpack-boilerplate
 
