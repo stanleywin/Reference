@@ -8,6 +8,8 @@ javascript dom 编程艺术
 
 jQuery基础教程 https://github.com/wwj718/code_of_learningjquery
 
+## Python
+
 Python Cookbook
 
 Introduction to Computation and Programming Using Python
