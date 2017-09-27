@@ -26,20 +26,19 @@ http://eddychang.me/blog/javascript/80-react-es6-class.html
 
 http://eddychang.me/blog/javascript/83-js-callback.html
 
-http://eddychang.me/blog/javascript/84-js-clousure.html
+[Closure 閉包](http://eddychang.me/blog/javascript/84-js-clousure.html)
 
-http://fred-zone.blogspot.tw/2017/01/javascript-mapreduce.html
+[上手使用JavaScript的Map、Reduce吧!](http://fred-zone.blogspot.tw/2017/01/javascript-mapreduce.html)
 
-https://dotblogs.com.tw/explooosion/2017/06/05/221119
+[從零開始的 Koa2 世界](https://dotblogs.com.tw/explooosion/2017/06/05/221119)
 
-https://pjchender.blogspot.tw/2017/01/es6-arrow-function.html
+[JavaScript ES6 中的箭頭函數（arrow function）及對 this 的影響](https://pjchender.blogspot.tw/2017/01/es6-arrow-function.html)
 
-http://zh.lucida.me/blog/on-learning-algorithms/
+[我的算法学习之路](http://zh.lucida.me/blog/on-learning-algorithms/)
 
-https://www.zhihu.com/question/21760988
+[如何系统学习 MySQL?](https://www.zhihu.com/question/21760988)
 
-https://www.zhihu.com/question/21567720
+[如何系统地学习Node.js？](https://www.zhihu.com/question/21567720)
 
-https://zhuanlan.zhihu.com/p/24559011
+[十分钟带你看完 KOA 源码](https://zhuanlan.zhihu.com/p/24559011)
 
-https://zhuanlan.zhihu.com/p/28749806
