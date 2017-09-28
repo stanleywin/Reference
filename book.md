@@ -54,8 +54,6 @@ Seven Languages in Seven Weeks: A 七周七语言
 
 clean code
 
-编程之美
-
 ## computer concepts
 Concepts of Programming Languages 程序设计语言原理
 
