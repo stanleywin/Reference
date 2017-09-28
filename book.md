@@ -38,16 +38,23 @@ The C Programming Language
 
 Java Concurrency in Practice
 
+
+## computer systems & operating systems
+Computer Systems: A Programmer's Perspective 深入理解计算机系统 CSAPP
+
+Modern Operating Systems MOOC:The Hardware/Software Interface
+
+## computer principle
+
 Pragmatic Thinking and Learning - Refactor Your Wetware
 
 Programming Pearls 编程珠玑
 
 Seven Languages in Seven Weeks: A 七周七语言
 
-## computer systems & operating systems
-Computer Systems: A Programmer's Perspective 深入理解计算机系统 CSAPP
+clean code
 
-Modern Operating Systems MOOC:The Hardware/Software Interface
+编程之美
 
 ## computer concepts
 Concepts of Programming Languages 程序设计语言原理
@@ -83,7 +90,7 @@ Understanding the Linux Kernel 深入理解LINUX内核
 The Art of UNIX Programming Unix编程艺术
 
 
-## other principles
+## others
 
 深入理解Nginx
 
