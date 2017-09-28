@@ -15,6 +15,8 @@
 
 [JSX說明](http://blog.techbridge.cc/2016/04/21/react-jsx-introduction/#%E4%BA%8C%E3%80%81JSX-%E7%94%A8%E6%B3%95%E6%91%98%E8%A6%81)
 
+[redux 簡介](http://huli.logdown.com/posts/294037-javascript-redux-basic-tutorial)
+
 [ RRRR的世界 (Ruby on Rails + React + Redux)](http://ithelp.ithome.com.tw/articles/10186143)
 
 [寫React的那些事](http://ithelp.ithome.com.tw/articles/10184585)
