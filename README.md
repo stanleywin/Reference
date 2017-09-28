@@ -1,7 +1,8 @@
 # Refererence
 1. 先使用react+redux構建出crud功能
-2. 再koa2構建後端database
-3. 雛形完成
+2. 再藉由koa2構建後端database
+3. 關連
+4. 雛形完成
 
 ## start
 
