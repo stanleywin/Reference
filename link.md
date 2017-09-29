@@ -1,5 +1,7 @@
 ## Link
 
+[Python Resource](http://dylanninin.com/blog/2013/11/23/python_resource.html)
+
 http://fred-zone.blogspot.tw/2016/07/javascript-async.html
 
 http://fred-zone.blogspot.tw/2017/04/javascript-asyncawait.html
