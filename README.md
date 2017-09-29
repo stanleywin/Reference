@@ -65,6 +65,11 @@
 
 
 ### Link
+[如何系统、科学地自学编程知识？](https://www.zhihu.com/question/20837356)
+
+[程序员技术练级攻略](https://coolshell.cn/articles/4990.html)
+
+[编程入门指南 v1.5](https://zhuanlan.zhihu.com/p/19959253)
 
 [node.js express 環境安裝之新手教學](https://dotblogs.com.tw/explooosion/2016/06/11/213626)
 
