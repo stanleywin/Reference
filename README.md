@@ -64,8 +64,5 @@
 
 [node.js 搭載 mysql 之新手教學](https://dotblogs.com.tw/explooosion/2016/07/18/010601)
 
-[node school](https://nodeschool.io/zh-tw/)
-
-https://www.codementor.io
 
 
