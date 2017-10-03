@@ -16,7 +16,6 @@
 
 [React觀念說明](https://j6qup3.github.io/2016/08/06/%E7%8C%B4%E5%AD%90%E4%B9%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84-React-%E6%95%99%E5%AD%B8-1/)
 
-
 [JSX說明](http://blog.techbridge.cc/2016/04/21/react-jsx-introduction/#%E4%BA%8C%E3%80%81JSX-%E7%94%A8%E6%B3%95%E6%91%98%E8%A6%81)
 
 [從零開始學 ReactJS](https://www.gitbook.com/book/kdchang/react101/details)
@@ -28,6 +27,8 @@
 [寫React的那些事](http://ithelp.ithome.com.tw/articles/10184585)
 
 [Redux 起手式](https://jigsawye.com/2015/11/29/instruction-with-redux/)
+
+[this用法整理](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)
 
 ## Koa
 
