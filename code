@@ -15,7 +15,7 @@ protected void Button1_Click(object sender, EventArgs e)
 protected void Button1_Click(object sender, EventArgs e)
     {
         int[] n = new int[5];
-        string s = "";
+        var s = "";
         for(int r in n)
         { 
             s = s + r.ToString() + " ";
