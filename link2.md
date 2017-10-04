@@ -12,10 +12,9 @@
 
 [webpack demo](https://github.com/ruanyf/webpack-demos)
 
-https://github.com/ruanyf/react-babel-webpack-boilerplate
+[React demo 模板](https://github.com/ruanyf/react-babel-webpack-boilerplate)
 
-http://www.ruanyifeng.com/blog/2017/04/memory-leak.html
+[JavaScript 内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
 
-http://www.ruanyifeng.com/blog/2017/03/reduce_transduce.html
+[Reduce 和 Transduce 的含义](http://www.ruanyifeng.com/blog/2017/03/reduce_transduce.html)
 
-https://pan.擺渡.com/share/link?shareid=2717278035&uk=38523945&fid=457280186412289
