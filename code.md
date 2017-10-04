@@ -1,6 +1,6 @@
 ##
 
-````c
+````c#
 protected void Button1_Click(object sender, EventArgs e)
     {
         int[] n = new int[5];
