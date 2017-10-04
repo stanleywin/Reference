@@ -37,10 +37,13 @@
 
 [一起学koa](http://17koa.com/koa-generator-examples/)
 
+## MySQL
+
+[MySQL 超新手入門（1）重新開始](http://www.codedata.com.tw/database/mysql-tutorial-getting-started)
+
 ## Sass
 
 [Sass/SCSS 簡明入門教學](http://blog.techbridge.cc/2017/06/30/sass-scss-tutorial-introduction/)
-
 
 ### Link
 [如何系统、科学地自学编程知识？](https://www.zhihu.com/question/20837356)
