@@ -2,31 +2,19 @@
 
 [Python Resource](http://dylanninin.com/blog/2013/11/23/python_resource.html)
 
-http://fred-zone.blogspot.tw/2016/07/javascript-async.html
+[JavaScript 好用的 async 異步函數！](http://fred-zone.blogspot.tw/2016/07/javascript-async.html)
 
-http://fred-zone.blogspot.tw/2017/04/javascript-asyncawait.html
+[JavaScript async/await 的奇淫技巧](http://fred-zone.blogspot.tw/2017/04/javascript-asyncawait.html)
 
-http://eddychang.me/blog/javascript/88-promise-basic-usage.html
+[Promise教學](http://eddychang.me/blog/javascript/88-promise-basic-usage.html)
 
-http://eddychang.me/blog.html?start=16
+[為何說setState方法是異步的](http://eddychang.me/blog/javascript/98-why-setstate-is-async.html)
 
-http://eddychang.me/blog/javascript/98-why-setstate-is-async.html
+[SCSS 15分鐘入門](http://eddychang.me/blog/others/91-scss-15-mins.html)
 
-http://eddychang.me/blog/javascript/95-react-native-android-macos-windows.html
+[React使用ES6 Class](http://eddychang.me/blog/javascript/80-react-es6-class.html)
 
-http://eddychang.me/blog/others/92-scss-livereload.html
-
-http://eddychang.me/blog/others/91-scss-15-mins.html
-
-http://eddychang.me/blog/javascript/87-promise-concept.html
-
-http://eddychang.me/blog/javascript/86-promise-intro.html
-
-http://eddychang.me/blog/javascript/81-react-dev-env-rhl.htmlhttp://eddychang.me/blog/javascript/82-atom-react.html
-
-http://eddychang.me/blog/javascript/80-react-es6-class.html
-
-http://eddychang.me/blog/javascript/83-js-callback.html
+[Callback 回調](http://eddychang.me/blog/javascript/83-js-callback.html)
 
 [Closure 閉包](http://eddychang.me/blog/javascript/84-js-clousure.html)
 
