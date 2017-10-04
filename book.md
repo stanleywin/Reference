@@ -96,26 +96,6 @@ The Art of UNIX Programming Unix编程艺术
 
 深入浅出Node.js
 
-## 雜書
-
-深度工作力
-
-為什麼學生不喜歡上學
-
-天才密碼
-
-A mind for numbers
-
-學習的科學
-
-How to become a rapid learner W1 - 如何決定學習項目
-
-萬萬沒想到：用理工科思維理解世界
-
-非首選人生
-
-
-
 
 
 
