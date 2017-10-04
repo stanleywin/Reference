@@ -9,9 +9,6 @@
 [工具介紹](https://blog.miniasp.com/post/2015/08/13/essential-frontend-tools-2015.aspx) 
 
 
-
-
-
 ## React
 
 [React觀念說明](https://j6qup3.github.io/2016/08/06/%E7%8C%B4%E5%AD%90%E4%B9%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84-React-%E6%95%99%E5%AD%B8-1/)
@@ -44,11 +41,6 @@
 
 [Sass/SCSS 簡明入門教學](http://blog.techbridge.cc/2017/06/30/sass-scss-tutorial-introduction/)
 
-## Others 
-
-[学习密度与专注力](http://mindhacks.cn/2007/05/24/learn-to-focus/)
-
-[暗时间](http://mindhacks.cn/2009/12/20/dark-time/)
 
 ### Link
 [如何系统、科学地自学编程知识？](https://www.zhihu.com/question/20837356)
