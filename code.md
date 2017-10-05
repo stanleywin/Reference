@@ -80,5 +80,12 @@ protected void Button1_Click(object sender, EventArgs e)
         
     }
     
+        protected void Button1_Click1(object sender, EventArgs e)
+    {
+        string r = TextBox1.Text;
+        r = r.Replace("\r\n", "<br>");
+        r = "<hr>" + DateTime.Now + "<br>" + TextBox2.Text + "<br>" + r;
+        Label1.Text = r + Label1.Text;
+    }
     
     ````
