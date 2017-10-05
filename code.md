@@ -52,4 +52,20 @@ protected void Button1_Click(object sender, EventArgs e)
             r += "" + num.ToString() + " ";
         Label2.Text = r;
     }
+    
+ using System.Collections;
+ 
+ protected void Button1_Click(object sender, EventArgs e)
+    {
+        string r = "";
+        ArrayList mArray = new ArrayList();
+        mArray.Add("banana");
+        mArray.Add("apple");
+        mArray.Add("cat");
+        Label1.Text = mArray.Count.ToString();
+        mArray.Sort();
+        foreach (string num in mArray)
+            r += "" + num.ToString() + " ";
+        Label2.Text = r;
+    }
     ````
