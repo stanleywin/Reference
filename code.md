@@ -68,4 +68,17 @@ protected void Button1_Click(object sender, EventArgs e)
             r += "" + num.ToString() + " ";
         Label2.Text = r;
     }
+    
+        protected void Button1_Click(object sender, EventArgs e)
+    {
+        ArrayList mArray = new ArrayList();
+        DateTime dt = DateTime.Now;
+        for (int i = 1; i <= 1000000; i++)
+            mArray.Add(i);
+        TimeSpan ts = DateTime.Now - dt;
+        Label1.Text = ts.Milliseconds + "ms";
+        
+    }
+    
+    
     ````
