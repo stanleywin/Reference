@@ -4,6 +4,9 @@
 3. 關連
 4. 雛形完成
 
+## 好文
+[怎样花两年时间去面试一个人](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)
+
 ## start
 
 [工具介紹](https://blog.miniasp.com/post/2015/08/13/essential-frontend-tools-2015.aspx) 
@@ -15,6 +18,12 @@
 [JSX說明](http://blog.techbridge.cc/2016/04/21/react-jsx-introduction/#%E4%BA%8C%E3%80%81JSX-%E7%94%A8%E6%B3%95%E6%91%98%E8%A6%81)
 
 [從零開始學 ReactJS](https://www.gitbook.com/book/kdchang/react101/details)
+
+[React - DOM界的彼方](https://ithelp.ithome.com.tw/users/20103131/ironman/1012)
+
+[從ES6開始的JavaScript學習生活](https://www.gitbook.com/book/eyesofkids/javascript-start-from-es6/details)
+
+[從Promise開始的JavaScript異步生活](https://www.gitbook.com/book/eyesofkids/javascript-start-es6-promise/details)
 
 [redux 簡介](http://huli.logdown.com/posts/294037-javascript-redux-basic-tutorial)
 
