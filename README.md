@@ -7,6 +7,8 @@
 ## 好文
 [怎样花两年时间去面试一个人](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)
 
+[Web前端的路该怎么走？](https://www.zhihu.com/question/34388831)
+
 ## start
 
 [工具介紹](https://blog.miniasp.com/post/2015/08/13/essential-frontend-tools-2015.aspx) 
@@ -25,15 +27,19 @@
 
 [從Promise開始的JavaScript異步生活](https://www.gitbook.com/book/eyesofkids/javascript-start-es6-promise/details)
 
-[redux 簡介](http://huli.logdown.com/posts/294037-javascript-redux-basic-tutorial)
-
 [ RRRR的世界 (Ruby on Rails + React + Redux)](http://ithelp.ithome.com.tw/articles/10186143)
 
 [寫React的那些事](http://ithelp.ithome.com.tw/articles/10184585)
 
+[this用法整理](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)
+
+## Redux
+
 [Redux 起手式](https://jigsawye.com/2015/11/29/instruction-with-redux/)
 
-[this用法整理](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)
+[redux 簡介](http://huli.logdown.com/posts/294037-javascript-redux-basic-tutorial)
+
+[React 升级：Redux](https://div.io/topic/1962)
 
 ## Koa
 
