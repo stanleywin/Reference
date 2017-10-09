@@ -8,6 +8,8 @@ javascript dom 编程艺术
 
 jQuery基础教程 https://github.com/wwj718/code_of_learningjquery
 
+ECMAScript 6 入门 http://es6.ruanyifeng.com/
+
 ## Python
 
 Python Cookbook
