@@ -11,7 +11,11 @@
 
 ## start
 
-[工具介紹](https://blog.miniasp.com/post/2015/08/13/essential-frontend-tools-2015.aspx) 
+[工具介紹](https://blog.miniasp.com/post/2015/08/13/essential-frontend-tools-2015.aspx)
+
+[ES6新特性：使用export和import实现模块化](http://www.cnblogs.com/diligenceday/p/5503777.html)
+
+[this用法整理](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)
 
 ## React
 
@@ -31,7 +35,6 @@
 
 [寫React的那些事](http://ithelp.ithome.com.tw/articles/10184585)
 
-[this用法整理](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)
 
 ## Redux
 
