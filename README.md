@@ -5,6 +5,7 @@
 4. 雛形完成
 
 ## 好文
+
 [怎样花两年时间去面试一个人](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)
 
 [Web前端的路该怎么走？](https://www.zhihu.com/question/34388831)
@@ -13,11 +14,9 @@
 
 [工具介紹](https://blog.miniasp.com/post/2015/08/13/essential-frontend-tools-2015.aspx)
 
-[ES6新特性：使用export和import实现模块化](http://www.cnblogs.com/diligenceday/p/5503777.html)
-
-[this用法整理](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)
-
 ## React
+
+[React中文文檔](https://doc.react-china.org/)
 
 [React觀念說明](https://j6qup3.github.io/2016/08/06/%E7%8C%B4%E5%AD%90%E4%B9%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84-React-%E6%95%99%E5%AD%B8-1/)
 
@@ -38,11 +37,27 @@
 
 ## Redux
 
+[Redux 中文文档](http://cn.redux.js.org/index.html)
+
 [Redux 起手式](https://jigsawye.com/2015/11/29/instruction-with-redux/)
 
 [redux 簡介](http://huli.logdown.com/posts/294037-javascript-redux-basic-tutorial)
 
+[Redux 入门教程（三）：React-Redux 的用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
+
 [React 升级：Redux](https://div.io/topic/1962)
+
+## ES6
+
+[ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+
+[ES6新特性：使用export和import实现模块化](http://www.cnblogs.com/diligenceday/p/5503777.html)
+
+[this用法整理](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)
+
+## Git
+
+[30天精通Git版本控管 ](https://ithelp.ithome.com.tw/users/20004901/ironman/525?page=3)
 
 ## Koa
 
