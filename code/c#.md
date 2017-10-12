@@ -88,4 +88,40 @@ protected void Button1_Click(object sender, EventArgs e)
         Label1.Text = r + Label1.Text;
     }
     
+    protected void Button1_Click(object sender, EventArgs e) // 10 textbox 1 buttom 1 label
+    {
+        try
+        {
+            string id;
+            double[] b = new double[10];
+            double temp ;
+            string r= "";
+            for(int i=1; i<=10; i++)
+            {
+                TextBox a;
+                id = "TextBox" + i;
+                a = (TextBox)Page.FindControl(id);
+                b[i - 1] = double.Parse(a.Text);
+            }
+            for(int i = 0; i <= 9; i++)
+            {
+                for(int j = i+1; j <= 9; j++)
+                {
+                    if (b[i] < b[j])
+                    {
+                        temp = b[i];
+                        b[i] = b[j];
+                        b[j] = temp;
+                    }
+                }
+                r = r + b[i].ToString() + "<br>";
+            }
+            Label1.Text = r;
+        }
+        catch(Exception err)
+        {
+            Label1.Text = err.Message;
+        }
+    }
+    
     ````
