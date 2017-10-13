@@ -36,10 +36,16 @@ Database System the Complete Book 数据库系统全书 1+2
 Introduction to database system
 
 ## programming language
+
 The C Programming Language
+
+C Traps and Pitfalls
+
+Pointers on C
 
 Java Concurrency in Practice
 
+C++ primer
 
 ## computer systems & operating systems
 Computer Systems: A Programmer's Perspective 深入理解计算机系统 CSAPP
@@ -80,10 +86,22 @@ Advanced Compiler Design and Implementation  高级编译器设计与实现
 
 Windows via C/C++ Windows核心编程
 
+
+## Network
+
+Unix Network Programming
+
+TCP/IP Illustrated
+
+Computer Networking: A Top-Down Approach
+
 ## Linux
+
 Understanding UNIX/LINUX Programming Unix/Linux编程实践教程
 
 Advanced Programming in the UNIX Environment
+
+The Linux Programming Interface
 
 Understanding the Linux Kernel 深入理解LINUX内核
 
