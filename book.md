@@ -37,15 +37,36 @@ Introduction to database system
 
 ## programming language
 
+### C
 The C Programming Language
 
 C Traps and Pitfalls
 
 Pointers on C
 
-Java Concurrency in Practice
+### C++
 
 C++ primer
+
+Effective Modern C++
+
+Effective STL
+
+Effective C++
+
+Inside the C++ Object Model
+
+C++ Templates: The Complete Guide
+
+STL源码剖析
+
+API Design for C++
+
+### Others
+
+(A Study Path for Game Programmer)[https://github.com/miloyip/game-programmer]
+
+Java Concurrency in Practice
 
 ## computer systems & operating systems
 Computer Systems: A Programmer's Perspective 深入理解计算机系统 CSAPP
