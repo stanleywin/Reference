@@ -13,6 +13,7 @@
 ## start
 
 [工具介紹](https://blog.miniasp.com/post/2015/08/13/essential-frontend-tools-2015.aspx)
+[编程的智慧](http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy)
 
 ## React
 
