@@ -64,7 +64,7 @@ API Design for C++
 
 ### Others
 
-(A Study Path for Game Programmer)[https://github.com/miloyip/game-programmer]
+[A Study Path for Game Programmer](https://github.com/miloyip/game-programmer)
 
 Java Concurrency in Practice
 
