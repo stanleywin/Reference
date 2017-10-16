@@ -18,3 +18,12 @@
 
 [Reduce 和 Transduce 的含义](http://www.ruanyifeng.com/blog/2017/03/reduce_transduce.html)
 
+https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+https://www.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details
+http://en.cppreference.com/w/
+http://en.cppreference.com/w/
+https://pjchender.blogspot.tw/2017/01/es6-object-destructuring.html
+https://dotblogs.com.tw/wellwind/2016/03/06/react-tutorial-3-visual-studio-code-hightlight-intellisense
+https://dotblogs.com.tw/wellwind/2016/03/18/react-tutorial-6-props
+https://dotblogs.com.tw/wellwind/2016/04/03/react-tutorial-7-state
+https://ithelp.ithome.com.tw/articles/10155643
