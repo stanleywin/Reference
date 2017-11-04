@@ -137,9 +137,9 @@ The Art of UNIX Programming Unix编程艺术
 
 深入浅出Node.js
 
-Asking The Right Questions:A Guide to Critical Thinking
+Asking The Right Questions:A Guide to Critical Thinking 學會提問
 
-
+The Art of Learning 学习之道 學習的王道
 
 
 
