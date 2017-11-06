@@ -68,10 +68,16 @@ API Design for C++
 
 Java Concurrency in Practice
 
+Effective java
+
+深入理解Java虚拟机
+
 ## computer systems & operating systems
 Computer Systems: A Programmer's Perspective 深入理解计算机系统 CSAPP
 
 Modern Operating Systems MOOC:The Hardware/Software Interface
+
+Operating Systems Three Easy Pieces
 
 ## computer principle
 
