@@ -56,7 +56,7 @@ Effective C++
 
 Inside the C++ Object Model
 
-C++ Templates: The Complete Guide
+C++ Templates: The Complete Guide C++ Templates全覽
 
 STL源码剖析
 
@@ -147,7 +147,7 @@ Asking The Right Questions:A Guide to Critical Thinking 學會提問
 
 The Art of Learning 学习之道 學習的王道
 
-
+Make it Stick
 
 
 
