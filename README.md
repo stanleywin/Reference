@@ -4,11 +4,19 @@
 3. 關連
 4. 雛形完成
 
-## 好文
+## 必看
+
+[程序员技术练级攻略](https://coolshell.cn/articles/4990.html)
 
 [怎样花两年时间去面试一个人](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)
 
 [Web前端的路该怎么走？](https://www.zhihu.com/question/34388831)
+
+[大学生学习编程的典型问题解答](https://zhuanlan.zhihu.com/p/27416619)
+
+[学编程的一些核心建议](https://zhuanlan.zhihu.com/p/25790902)
+
+[]()
 
 ## start
 
