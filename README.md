@@ -1,3 +1,10 @@
+# 新學期進度
+https://www.jianshu.com/p/f59594b90500
+https://github.com/koajs/worksho
+http://mherman.org/blog/2017/08/23/building-a-restful-api-with-koa-and-postgres/#.WrMIKZNuZE4
+http://koa.rednode.cn/
+http://koajs.com
+
 # Refererence
 1. 先使用react+redux構建出crud功能
 2. 再藉由koa2構建後端database
