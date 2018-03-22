@@ -11,10 +11,18 @@ jQuery基础教程 https://github.com/wwj718/code_of_learningjquery
 ECMAScript 6 入门 http://es6.ruanyifeng.com/
 
 ## Python
+流暢的 Python
+
+Python源码剖析
 
 Python Cookbook
 
 Introduction to Computation and Programming Using Python
+
+Python高手之路
+
+High Performance Python
+
 
 ## database
 High Performance MySQL
@@ -72,6 +80,8 @@ Effective java
 
 深入理解Java虚拟机
 
+Expert Python Programming
+
 ## computer systems & operating systems
 Computer Systems: A Programmer's Perspective 深入理解计算机系统 CSAPP
 
@@ -88,6 +98,12 @@ Programming Pearls 编程珠玑
 Seven Languages in Seven Weeks: A 七周七语言
 
 clean code
+
+The Art of Readable Code
+
+构建之法
+
+程序设计实践
 
 ## computer concepts
 Concepts of Programming Languages 程序设计语言原理
