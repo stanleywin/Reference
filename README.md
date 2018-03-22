@@ -1,9 +1,9 @@
 # 新學期進度
-(https://www.jianshu.com/p/f59594b90500/)
-(https://github.com/koajs/workshop/)
-(http://mherman.org/blog/2017/08/23/building-a-restful-api-with-koa-and-postgres/#.WrMIKZNuZE4/)
-(http://koa.rednode.cn/)
-(http://koajs.com/)
+[如何使用koa2+es6/7打造高质量Restful API](https://www.jianshu.com/p/f59594b90500/)
+[workshop](https://github.com/koajs/workshop/)
+[Building a RESTful API with Koa and Postgres](http://mherman.org/blog/2017/08/23/building-a-restful-api-with-koa-and-postgres/#.WrMIKZNuZE4/)
+[中文koa doc](http://koa.rednode.cn/)
+[英文koa doc](http://koajs.com/)
 
 # Refererence
 1. 先使用react+redux構建出crud功能
