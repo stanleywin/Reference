@@ -129,6 +129,8 @@ Advanced Compiler Design and Implementation  高级编译器设计与实现
 
 Windows via C/C++ Windows核心编程
 
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition) 
+
 
 ## Network
 
