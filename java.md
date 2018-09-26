@@ -1,4 +1,4 @@
-package hw1;
+package HW1;
 
 public class Polygon {
 	Point[] points ; //記錄多邊形的各頂點座標, 請使用第一題的Point
@@ -14,7 +14,7 @@ public class Polygon {
         // points = ps ; // 這行是錯的, 不要這麼寫
     }
     double border() {
-        for (int i = 0 ; i < points.length; i++) { // 27.48 , 12
+        for (int i = 0 ; i < points.length-1; i++) { // 27.48 , 12
         	total += points[i].distance(points[i+1]);
         }
         total += points[points.length-1].distance(points[0]);
@@ -24,15 +24,15 @@ public class Polygon {
         // DIY: 計算並回傳此多邊型的面積
     	double d1,d2,d3,d4;
     	double area = 0.0;
-    	for(int i = 0; i < points.length; i+=3) {
+    	for(int i = 0; i < points.length-2; i+=3) {
     		d1 = points[0].distance(points[i+1]);
     		d2 = points[0].distance(points[i+2]);
     		d3 = points[i+1].distance(points[i+2]);
     		d4 = (d1+d2+d3)/2;
-    		area += ()
+    		area += (d4*(d4-d1)*(d4-d2)*(d4-d3));
     	}
     	
-        return 0.0 ;
+        return area ;
     }
     void print(String msg) {
         System.out.print(msg) ;
