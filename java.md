@@ -4,6 +4,7 @@ package HW1;
 public class Polygon {
 	Point[] points ; //記錄多邊形的各頂點座標, 請使用第一題的Point
 	double total = 0.0;
+    
     Polygon() { }
     Polygon(Point[] ps) {
     	this.points = new Point[ps.length];
@@ -29,13 +30,16 @@ public class Polygon {
     		d2 = points[0].distance(points[i+2]);
     		d3 = points[i+1].distance(points[i+2]);
     		d4 = (d1+d2+d3)/2;
-    		area += (d4*(d4-d1)*(d4-d2)*(d4-d3));
+    		area += Math.sqrt((d4*(d4-d1)*(d4-d2)*(d4-d3)));
     	}
+    	
         return area ;
     }
     void print(String msg) {
         System.out.print(msg) ;
         // DIY: 依照程式輸出印出多邊形
+        
         System.out.println() ; 
     }
+
 }
