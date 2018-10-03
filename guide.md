@@ -57,7 +57,7 @@ componentDidMount() {
 - mount完成後執行
 ``` javascript
 componentDidMount() {
-  // this code you want to execute ...ajax
+  // the code you want to execute ...ajax
 }
 ```
 #### componentDidUpdate
