@@ -10,7 +10,7 @@
 ``` javascript
 mapStateToProps(state) {
   return {
-    user: state.user
+    user: state.user // if change to abc: state.user
   }
 }
 ```
@@ -19,6 +19,9 @@ Component內使用state之內容
 
 ``` javascript
   this.props.user
+  // if mapStateToProps change to 
+  // return { abc: state.user }
+  this.props.abc
 ```
 #### mapDispatchToProps(dispatch)
 - 查看action creator之內容 使之能夠於component內dispatch
@@ -35,6 +38,9 @@ Component內使用dispatch
 
 ``` javascript
   this.props.userActions.fetchUser(id); // in UserActions have a function fetchUser(id)
+  // if mapDispatchToProps change to
+  // return { abc: bindActionCreators(UserActions,dispatch) }
+  this.props.abc.fetchUser(id); // in UserActions have a function fetchUser(id)
 ```
 ### 常見生命週期異步處理
 #### Flag
